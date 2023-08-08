@@ -8,4 +8,4 @@ frequento o colégio Gabriel Martins
 utilizamos a linguagem HTML e CSS
 site criado pelo Alura
 
-goncalves.maria20escola.pr.gov.br
+goncalves.maria20@escola.pr.gov.br
